@@ -33,3 +33,5 @@ To start tracking your expenses with SPUDBLOCKS'S Finance Tracker, simply add th
 Whether you're a seasoned budgeting pro or just starting to take control of your finances, SPUDBLOCKS'S Finance Tracker is here to make managing your money easier and more efficient than ever before. Start tracking your expenses effortlessly today!
 
 🔗 [Add SPUDBLOCKS'S Finance Tracker to Telegram](https://t.me/SPUDFNCBOT)
+
+~~ Update
